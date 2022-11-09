@@ -1,7 +1,7 @@
 {
     "kakao": {
-        "accessToken": "API_TEST_TOKEN",
-        "refreshToken": "API_TEST_TOKEN"
+        "access_token": "API_TEST_TOKEN",
+        "refresh_token": "API_TEST_TOKEN"
     },
     "userInfo": {
         "kakao_account": {
