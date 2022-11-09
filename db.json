@@ -1,0 +1,14 @@
+{
+    "kakao": {
+        "accessToken": "API_TEST_TOKEN",
+        "refreshToken": "API_TEST_TOKEN"
+    },
+    "userInfo": {
+        "kakao_account": {
+            "email": "apiTest@email.com",
+            "profile": {
+                "nickname": "싸피"
+            }
+        }
+    }
+}
