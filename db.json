@@ -7,7 +7,8 @@
         "kakao_account": {
             "email": "apiTest@email.com",
             "profile": {
-                "nickname": "싸피"
+                "nickname": "싸피",
+                "profile_image_url": "PROFILE_IMAGE_URL"
             }
         }
     }
